@@ -1,3 +1,6 @@
+-- Database schema for Security Log Analyzer
+-- Stores authentication events for analysis
+
 create table auth_logs (
     id integer primary key autoincrement,
     timestamp text not null,
