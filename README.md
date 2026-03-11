@@ -298,9 +298,12 @@ Key features and improvements:
 
 ---
 
-## Author
+## Maintainer
 
-Security Analysis Learning Project
+**Italo Mazzucatto**  
+IT Student – Cybersecurity & Security Operations
+
+---
 
 ## License
 
