@@ -264,7 +264,6 @@ timestamp,username,ip,status
 
 Possible additions without over-engineering:
 
-- [ ] Geolocation-based alerts (impossible logins from distant IPs)
 - [ ] Repeat offender tracking across multiple runs
 - [ ] CSV export of detected threats
 - [ ] Alert severity levels (low/medium/high/critical)
@@ -275,17 +274,18 @@ Possible additions without over-engineering:
 
 ## Project Status
 
-**Refactored v1.0** - March 2026
+**Current Version – March 2026**
 
-Key improvements from original:
+Key features and improvements:
+
 - ✓ Modular architecture for maintainability
 - ✓ Proper datetime validation
 - ✓ Batch database operations
-- ✓ Enhanced threat detection
+- ✓ Enhanced threat detection logic
 - ✓ Account compromise pattern recognition
 - ✓ IP blacklist support
-- ✓ Cleaner code organization
-- ✓ Comprehensive documentation
+- ✓ Clean code organization
+- ✓ Project documentation
 
 ---
 
